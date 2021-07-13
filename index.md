@@ -19,9 +19,9 @@ Syntax highlighted code block
 - List
 
 1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+2. 列表
+欢迎张俊凯访问我的网页
+**粗体**和_斜体_和`代码`文本
 
 [Link](url) and ![Image](src)
 ```
